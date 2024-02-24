@@ -108,7 +108,7 @@ if (version.endsWith('-SNAPSHOT')) {
 publishing {
     publications {
         mavenJava(MavenPublication) {
-            artifactId = 'x12-parser-rlabs'
+            artifactId = 'x12-parser'
             from components.java
             versionMapping {
                 usage('java-api') {
