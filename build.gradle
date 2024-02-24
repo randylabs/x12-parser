@@ -12,7 +12,7 @@ plugins {
     id "org.sonarqube" version "4.2.1.3168"
 }
 
-group = 'com.imsweb'
+group = 'com.randylabs.edi'
 version = '2.0'
 description = 'Java client library for parsing x12 files'
 
