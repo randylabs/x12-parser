@@ -34,16 +34,16 @@ Download [the latest JAR][1] or grab via Maven:
 ```xml
 
 <dependency>
-    <groupId>com.imsweb</groupId>
+    <groupId>com.randylabs.edi</groupId>
     <artifactId>x12-parser</artifactId>
-    <version>1.15</version>
+    <version>2.0</version>
 </dependency>
 ```
 
 or via Gradle:
 
 ```groovy
-compile 'com.imsweb:x12-parser:1.15'
+compile 'com.randylabs.edi:x12-parser:2.0'
 ```
 
 [1]: http://repository.sonatype.org/service/local/artifact/maven/redirect?r=central-proxy&g=com.imsweb&a=x12-parser&v=LATEST
